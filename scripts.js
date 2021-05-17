@@ -68,7 +68,7 @@ const Transaction = {
     return Transaction.incomes() + Transaction.expenses();
   },
   
-  download(e) {
+  download1(e) {
     var pdf = './arquivos/diagrama.pdf'
     e.preventDefault();
 
