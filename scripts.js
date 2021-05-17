@@ -217,7 +217,7 @@ const DOM = {
             type="date" 
             name="date" 
             id="date" 
-            placeholder="21/05/2021"
+            placeholder="30/05/2021"
             value="${reverseDate}"
             required
           >
@@ -395,7 +395,7 @@ const Utils = {
     const todayName = `${date.getDate()}-${date.getMonth() < 10? '0'+date.getMonth(): date.getMonth()}-${date.getFullYear()}`;
 
     doc.setFontSize(12);
-    doc.text(20, 20, 'meufinanceiro$');
+    doc.text(20, 20, 'Impressão');
 
     doc.text(168, 20, today);
 
