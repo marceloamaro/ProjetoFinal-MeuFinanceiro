@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-<p align="center">Desenvolvido com 💜 por Jonas Lima e <a href="https://linktr.ee/marcelo.amaro" target="_blank" rel="noopener noreferrer">Marcelo Amaro</a></p>
+<p align="center">Desenvolvido com 💜 por Marcelo Amaro e Jonas Lima e <a href="https://sociais-links.vercel.app/" target="_blank" rel="noopener noreferrer">Jonas Lima</a></p>
