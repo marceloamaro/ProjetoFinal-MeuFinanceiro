@@ -26,10 +26,10 @@
 
 Acesse a demo do site através deste link:
 
-* [Clique aqui](https://meufinanceiro-roan.vercel.app/)
+* [Clique aqui](https://eujonas.github.io/ProjetoFinal-MeuFinanceiro//)
 ## 💻 Projeto
 
-Facilitando a sua vida financeira 💰
+Aplicação de um projeto financeiro, apresentado para a disciplina de Redes de Computadores e Analise e Projeto de Sistemas, no curso de Licenciatura em Computação, da Universidade Estadual do Ceará – UECE.
 
 
 * Este é um projeto desenvolvido durante a **[MaratonaDiscover](https://maratonadiscover.rocketseat.com.br/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**.
